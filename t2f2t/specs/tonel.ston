@@ -2,7 +2,6 @@ RwLoadSpecificationV2 {
 	#specName : 'tonel',
 	#projectName : 't2f2tMeta',
 	#diskUrl : 'file:///home/dhenrich/rogue/_homes/rogue/_home/shared/repos/XML-XMLParser',
-	#revision : 'gemstone',
 	#projectSpecFile : 't2f2t/tonel.ston',
 	#componentNames : [
 		'Core'
