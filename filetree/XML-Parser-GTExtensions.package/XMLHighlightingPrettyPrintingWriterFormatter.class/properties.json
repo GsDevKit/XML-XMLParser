@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-GTExtensions-Highlighting-Writer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"highlighter" ],
+	"name" : "XMLHighlightingPrettyPrintingWriterFormatter",
+	"pools" : [
+		 ],
+	"super" : "XMLPrettyPrintingWriterFormatter",
+	"type" : "normal" }

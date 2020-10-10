@@ -1,0 +1,16 @@
+{
+	"category" : "XML-Parser-Tests-ElementHandlers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"isbn",
+		"authors" ],
+	"name" : "SAX2SampleBook",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

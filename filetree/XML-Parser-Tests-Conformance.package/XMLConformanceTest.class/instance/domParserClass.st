@@ -1,0 +1,3 @@
+defaults
+domParserClass
+	^ XMLDOMParser

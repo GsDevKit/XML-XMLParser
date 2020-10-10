@@ -1,0 +1,13 @@
+tests - exception raising
+testnotwfsa111xml
+	"Source file: xmltest/not-wf/sa/111.xml"
+
+	self
+		skipOrReturnWith: [^ self]
+		ifSkippable: #testnotwfsa111xml.
+	self
+		should: [
+			self
+				parse: self class sourcenotwfsa111xml
+				documentURI: 'not-wf/sa/111.xml']
+		raise: self parserExceptions

@@ -1,0 +1,16 @@
+{
+	"category" : "XML-Parser-GTExtensions-Highlighting-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"streamReader",
+		"outputStream",
+		"writeStream" ],
+	"name" : "XMLExternalDocumentConverter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

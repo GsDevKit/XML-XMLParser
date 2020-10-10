@@ -1,0 +1,16 @@
+{
+	"category" : "XML-Parser-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"collection",
+		"maxSize",
+		"mutex" ],
+	"name" : "XMLKeyValueCache",
+	"pools" : [
+		 ],
+	"super" : "XMLAbstractFactory",
+	"type" : "normal" }

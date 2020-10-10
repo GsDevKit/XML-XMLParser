@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLParserExceptionTest",
+	"pools" : [
+		 ],
+	"super" : "XMLExceptionTest",
+	"type" : "normal" }

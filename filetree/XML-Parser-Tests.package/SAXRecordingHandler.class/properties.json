@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"messageRecorder" ],
+	"name" : "SAXRecordingHandler",
+	"pools" : [
+		 ],
+	"super" : "SAXHandler",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "XML-Parser-HTTP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mainType",
+		"subType",
+		"parameters" ],
+	"name" : "XMLHTTPMIMEType",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

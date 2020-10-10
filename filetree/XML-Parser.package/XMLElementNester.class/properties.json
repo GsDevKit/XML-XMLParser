@@ -1,0 +1,19 @@
+{
+	"category" : "XML-Parser-Drivers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"openElements",
+		"rootElement",
+		"scopedAttributes",
+		"hasExternalRootElement",
+		"wasRootElementEnded",
+		"isInElement" ],
+	"name" : "XMLElementNester",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "XML-Parser-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UTF16BigEndianBOMBytes",
+		"UTF32BigEndianBOMBytes",
+		"UTF32LittleEndianBOMBytes",
+		"UTF8BOMBytes" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"startPosition" ],
+	"name" : "XMLEncodingDetector",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

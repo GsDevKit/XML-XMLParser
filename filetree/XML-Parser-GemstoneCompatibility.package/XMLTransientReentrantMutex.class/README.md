@@ -1,0 +1,1 @@
+This class is an implementation that uses Gemstone's TransientRecursionLock to implement a reentrant mutex. These are not persistent.

@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-GTExtensions-Highlighting",
+	"classinstvars" : [
+		"defaultDefaultColor",
+		"uiTheme" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLHighlightDefaults",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

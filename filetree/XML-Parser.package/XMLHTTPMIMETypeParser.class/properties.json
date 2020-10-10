@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-HTTP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"TokenDelimiters" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLHTTPMIMETypeParser",
+	"pools" : [
+		 ],
+	"super" : "XMLAbstractReadStreamParser",
+	"type" : "normal" }

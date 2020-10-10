@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-DOM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLElementWithoutCachingAttributeList",
+	"pools" : [
+		 ],
+	"super" : "XMLElement",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLLazyNamespacedAttributeDictionaryTest",
+	"pools" : [
+		 ],
+	"super" : "XMLNamespacedAttributeDictionaryTest",
+	"type" : "normal" }

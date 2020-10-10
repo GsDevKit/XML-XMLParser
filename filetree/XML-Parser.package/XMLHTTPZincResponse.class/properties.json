@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-HTTP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"zincResponse" ],
+	"name" : "XMLHTTPZincResponse",
+	"pools" : [
+		 ],
+	"super" : "XMLHTTPResponse",
+	"type" : "normal" }

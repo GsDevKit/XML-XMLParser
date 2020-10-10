@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Validation-Standalone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLStandaloneExternalNmtokensAttributeValidator",
+	"pools" : [
+		 ],
+	"super" : "XMLNmtokensAttributeValidator",
+	"type" : "normal" }

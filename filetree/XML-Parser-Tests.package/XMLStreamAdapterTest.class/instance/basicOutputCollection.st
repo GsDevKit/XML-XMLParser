@@ -1,0 +1,3 @@
+accessing
+basicOutputCollection
+	^ self basicInputCollection

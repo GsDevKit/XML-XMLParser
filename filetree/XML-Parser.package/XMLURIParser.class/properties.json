@@ -1,0 +1,19 @@
+{
+	"category" : "XML-Parser-URI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"HostDelimiters",
+		"PathDelimiters",
+		"QueryKeyDelimiters",
+		"QueryValueDelimiters",
+		"SchemeDelimiters",
+		"UserInfoDelimiters" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLURIParser",
+	"pools" : [
+		 ],
+	"super" : "XMLAbstractReadStreamParser",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "XML-Parser-Drivers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PredefinedEntities" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"state",
+		"driver",
+		"elementNester",
+		"streamReader",
+		"nameStream",
+		"xmlDeclarationStream",
+		"characterStream" ],
+	"name" : "XMLParserTokenizer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

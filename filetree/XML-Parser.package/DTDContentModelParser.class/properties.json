@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-DTD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"element",
+		"contentModel" ],
+	"name" : "DTDContentModelParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

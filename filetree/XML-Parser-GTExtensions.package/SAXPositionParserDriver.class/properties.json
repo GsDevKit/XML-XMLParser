@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-GTExtensions-Highlighting-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SAXPositionParserDriver",
+	"pools" : [
+		 ],
+	"super" : "SAXParserDriver",
+	"type" : "normal" }

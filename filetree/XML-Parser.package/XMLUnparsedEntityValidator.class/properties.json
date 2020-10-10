@@ -1,0 +1,16 @@
+{
+	"category" : "XML-Parser-Validation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"unparsedEntities",
+		"notations",
+		"notationAttributeValidators" ],
+	"name" : "XMLUnparsedEntityValidator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

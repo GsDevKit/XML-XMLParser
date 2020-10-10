@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Streams",
+	"classinstvars" : [
+		"instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLStatelessStreamConverter",
+	"pools" : [
+		 ],
+	"super" : "XMLStreamConverter",
+	"type" : "normal" }

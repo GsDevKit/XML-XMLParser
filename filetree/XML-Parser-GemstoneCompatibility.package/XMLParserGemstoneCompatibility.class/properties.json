@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-GemstoneCompatibility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLParserGemstoneCompatibility",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

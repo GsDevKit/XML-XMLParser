@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfXMLParser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfXMLParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

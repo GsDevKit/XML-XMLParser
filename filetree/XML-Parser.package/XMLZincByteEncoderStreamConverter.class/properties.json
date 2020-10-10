@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NullReadStream" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"zincByteEncoder",
+		"stringReadStreamAdapter" ],
+	"name" : "XMLZincByteEncoderStreamConverter",
+	"pools" : [
+		 ],
+	"super" : "XMLStreamConverter",
+	"type" : "normal" }

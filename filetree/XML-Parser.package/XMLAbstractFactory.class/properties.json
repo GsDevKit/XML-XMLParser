@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Utils",
+	"classinstvars" : [
+		"implementation" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLAbstractFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+inputCollectionByteOrderMark
+	^ self asExpectedInput: self explicitStreamConverterClass byteOrderMarkBytes

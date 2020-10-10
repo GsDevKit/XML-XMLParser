@@ -1,0 +1,3 @@
+accessing
+basicInvalidInputCollections
+	^ self basicInvalidLatin1InputCollections

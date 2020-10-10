@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLClassFinder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "XML-Parser-Tests-URI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"asciiCharacters",
+		"reservedCharacters",
+		"unreservedCharacters",
+		"percentEncodedASCIICharacters",
+		"percentEncodedReservedCharacters",
+		"percentEncodedAlphaNumericCharacters" ],
+	"name" : "XMLURITest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

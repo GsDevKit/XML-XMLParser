@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SmallIntegerMaxValue" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLSmallIntegerReader",
+	"pools" : [
+		 ],
+	"super" : "XMLIntegerReader",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-HTTP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"request" ],
+	"name" : "XMLHTTPResponse",
+	"pools" : [
+		 ],
+	"super" : "XMLHTTPMessage",
+	"type" : "normal" }

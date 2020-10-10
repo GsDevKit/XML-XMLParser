@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"elementClassMap" ],
+	"name" : "XMLBasicElementClassMapper",
+	"pools" : [
+		 ],
+	"super" : "XMLElementClassMapper",
+	"type" : "normal" }

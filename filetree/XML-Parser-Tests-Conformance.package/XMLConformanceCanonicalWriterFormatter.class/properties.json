@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-Conformance-Writer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLConformanceCanonicalWriterFormatter",
+	"pools" : [
+		 ],
+	"super" : "XMLWriterFormatter",
+	"type" : "normal" }

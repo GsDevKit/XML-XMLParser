@@ -1,0 +1,24 @@
+{
+	"category" : "XML-Parser-GTExtensions-Highlighting",
+	"classinstvars" : [
+		"defaultXMLDeclarationColor",
+		"defaultDoctypeDeclarationColor",
+		"defaultPIColor",
+		"defaultDeclarationColor",
+		"defaultTagColor",
+		"defaultNameColor",
+		"defaultQuotedStringNameColor",
+		"defaultQuotedStringColor",
+		"defaultEntityReferenceColor",
+		"defaultCommentColor",
+		"defaultCDataColor" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLDocumentHighlightDefaults",
+	"pools" : [
+		 ],
+	"super" : "XMLHighlightDefaults",
+	"type" : "normal" }

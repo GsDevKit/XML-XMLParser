@@ -1,0 +1,1 @@
+A formatter for the XML Conformance test suite canonical XML format, which is different from the standard canonical XML format.

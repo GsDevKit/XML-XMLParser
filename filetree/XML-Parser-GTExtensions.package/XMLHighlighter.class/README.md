@@ -1,0 +1,1 @@
+This is a base class for highlighters that highlight Text objects using XMLHighlights.

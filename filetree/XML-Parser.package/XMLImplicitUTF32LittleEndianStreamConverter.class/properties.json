@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLImplicitUTF32LittleEndianStreamConverter",
+	"pools" : [
+		 ],
+	"super" : "XMLUTF32LittleEndianStreamConverter",
+	"type" : "normal" }

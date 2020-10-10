@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Drivers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLPushedBackInternalStream",
+	"pools" : [
+		 ],
+	"super" : "XMLPushedBackStream",
+	"type" : "normal" }

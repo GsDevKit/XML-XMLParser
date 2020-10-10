@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"readStream",
+		"writeStream" ],
+	"name" : "XMLAbstractReadStreamParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

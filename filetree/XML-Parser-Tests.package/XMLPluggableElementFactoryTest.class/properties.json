@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-DOM-Factories",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLPluggableElementFactoryTest",
+	"pools" : [
+		 ],
+	"super" : "XMLPluggableNodeFactoryTest",
+	"type" : "normal" }

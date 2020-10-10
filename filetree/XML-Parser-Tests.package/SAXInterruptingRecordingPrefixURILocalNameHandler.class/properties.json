@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"interruptOn" ],
+	"name" : "SAXInterruptingRecordingPrefixURILocalNameHandler",
+	"pools" : [
+		 ],
+	"super" : "SAXRecordingPrefixURILocalNameHandler",
+	"type" : "normal" }

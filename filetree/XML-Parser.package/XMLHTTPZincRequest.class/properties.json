@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-HTTP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"zincRequest",
+		"zincClient" ],
+	"name" : "XMLHTTPZincRequest",
+	"pools" : [
+		 ],
+	"super" : "XMLHTTPRequest",
+	"type" : "normal" }

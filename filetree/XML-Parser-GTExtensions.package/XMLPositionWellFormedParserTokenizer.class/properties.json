@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-GTExtensions-Highlighting-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isInEntityReference",
+		"isInAttlistDeclaration" ],
+	"name" : "XMLPositionWellFormedParserTokenizer",
+	"pools" : [
+		 ],
+	"super" : "XMLWellFormedParserTokenizer",
+	"type" : "normal" }

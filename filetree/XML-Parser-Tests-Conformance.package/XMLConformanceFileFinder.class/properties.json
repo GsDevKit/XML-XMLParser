@@ -1,0 +1,19 @@
+{
+	"category" : "XML-Parser-Tests-Conformance-Files",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"suite",
+		"root",
+		"failingTestFiles",
+		"passingTestFiles",
+		"entityFiles",
+		"passingTestOutputFiles" ],
+	"name" : "XMLConformanceFileFinder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

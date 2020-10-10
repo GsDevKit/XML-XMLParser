@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-Drivers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"baseURI",
+		"currentEntity" ],
+	"name" : "XMLParserDriver",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

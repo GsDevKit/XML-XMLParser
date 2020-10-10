@@ -1,0 +1,16 @@
+{
+	"category" : "XML-Parser-Validation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"elementsAndIdAttributes",
+		"idReferences",
+		"ids" ],
+	"name" : "XMLElementIDValidator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

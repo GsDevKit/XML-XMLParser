@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-DOM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLDocumentWithCachingNodeList",
+	"pools" : [
+		 ],
+	"super" : "XMLDocument",
+	"type" : "normal" }

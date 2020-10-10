@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-GemstoneCompatibility",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLGsFileReadStreamFactory",
+	"pools" : [
+		 ],
+	"super" : "XMLFileReadStreamFactory",
+	"type" : "normal" }

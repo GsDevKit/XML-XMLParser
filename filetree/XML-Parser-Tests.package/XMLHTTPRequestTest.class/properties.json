@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-HTTP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLHTTPRequestTest",
+	"pools" : [
+		 ],
+	"super" : "XMLHTTPMessageTest",
+	"type" : "normal" }

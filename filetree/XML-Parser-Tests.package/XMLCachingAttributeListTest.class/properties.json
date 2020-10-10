@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-DOM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLCachingAttributeListTest",
+	"pools" : [
+		 ],
+	"super" : "XMLAttributeListTest",
+	"type" : "normal" }

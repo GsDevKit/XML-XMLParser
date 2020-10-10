@@ -1,0 +1,17 @@
+{
+	"category" : "XML-Parser-Tests-ElementHandlers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"dateOfBirth",
+		"emailAddresses",
+		"residence" ],
+	"name" : "SAX2SamplePerson",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-Conformance",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ignorableParserExceptions" ],
+	"name" : "XMLConformanceTest",
+	"pools" : [
+		 ],
+	"super" : "XMLSkippableTest",
+	"type" : "normal" }

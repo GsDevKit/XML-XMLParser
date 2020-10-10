@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"limit" ],
+	"name" : "XMLLimitedReadStreamAdapter",
+	"pools" : [
+		 ],
+	"super" : "XMLReadStreamAdapter",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tempFileManager" ],
+	"name" : "XMLExternalEntityTest",
+	"pools" : [
+		 ],
+	"super" : "XMLSkippableTest",
+	"type" : "normal" }

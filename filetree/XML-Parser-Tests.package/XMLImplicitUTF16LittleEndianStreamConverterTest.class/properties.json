@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLImplicitUTF16LittleEndianStreamConverterTest",
+	"pools" : [
+		 ],
+	"super" : "XMLUTF16LittleEndianStreamConverterTest",
+	"type" : "normal" }

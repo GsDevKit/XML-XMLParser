@@ -1,0 +1,16 @@
+{
+	"category" : "XML-Parser-Tests-Validation-DFA",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"states",
+		"disjointStates",
+		"absentState" ],
+	"name" : "XMLNFAStateSetTest",
+	"pools" : [
+		 ],
+	"super" : "XMLAbstractSetTest",
+	"type" : "normal" }

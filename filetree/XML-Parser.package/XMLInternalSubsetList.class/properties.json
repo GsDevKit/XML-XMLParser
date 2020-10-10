@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-DOM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLInternalSubsetList",
+	"pools" : [
+		 ],
+	"super" : "XMLObservableList",
+	"type" : "normal" }

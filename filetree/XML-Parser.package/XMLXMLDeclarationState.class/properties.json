@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Drivers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLXMLDeclarationState",
+	"pools" : [
+		 ],
+	"super" : "XMLPrologState",
+	"type" : "normal" }

@@ -1,0 +1,10 @@
+xml source
+sourcevalidoutnotsa01xml
+	"Source file: sun/valid/out/not-sa01.xml"
+
+	^ '<!DOCTYPE root [
+<!NOTATION bar SYSTEM ''file:/dev/tty''>
+<!NOTATION foo PUBLIC ''-//public id//foo'' ''file:/dev/null''>
+<!NOTATION nonce SYSTEM ''file:/dev/null''>
+]>
+<root>&#10;    <child>&#10;    The whitespace before and after this element keeps&#10;    this from being standalone.&#10;    </child>&#10;</root>'

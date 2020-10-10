@@ -1,0 +1,18 @@
+{
+	"category" : "XML-Parser-HTTP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"response",
+		"rawContent",
+		"contentReadStream",
+		"limitedContentReadStream",
+		"isDecompressing" ],
+	"name" : "XMLHTTPResponseContentReader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

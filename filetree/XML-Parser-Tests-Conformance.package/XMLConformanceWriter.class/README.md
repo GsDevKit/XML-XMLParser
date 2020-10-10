@@ -1,0 +1,1 @@
+An XMLWriter for the XML Conformance test suite canonical XML format.

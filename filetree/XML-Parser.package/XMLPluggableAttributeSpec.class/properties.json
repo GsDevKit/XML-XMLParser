@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"block" ],
+	"name" : "XMLPluggableAttributeSpec",
+	"pools" : [
+		 ],
+	"super" : "XMLAttributeSpec",
+	"type" : "normal" }

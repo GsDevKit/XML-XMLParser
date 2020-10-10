@@ -1,0 +1,17 @@
+{
+	"category" : "XML-Parser-DTD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"externalSubsetReadLimit",
+		"maxExternalEntities",
+		"maxExternalEntitySize",
+		"resolvesLocalFromNonLocal" ],
+	"name" : "DTDExternalEntityLimits",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

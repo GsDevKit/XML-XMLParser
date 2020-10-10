@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-HTTP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"webClientClient",
+		"webClientRequest" ],
+	"name" : "XMLHTTPWebClientRequest",
+	"pools" : [
+		 ],
+	"super" : "XMLHTTPRequest",
+	"type" : "normal" }

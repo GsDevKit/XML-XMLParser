@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-DOM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cachedElements",
+		"cachedElementsByName" ],
+	"name" : "XMLCachingNodeList",
+	"pools" : [
+		 ],
+	"super" : "XMLNodeList",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLDecodingReadStreamAdapterLatin1StringTest",
+	"pools" : [
+		 ],
+	"super" : "XMLDecodingReadStreamAdapterLatin1Test",
+	"type" : "normal" }

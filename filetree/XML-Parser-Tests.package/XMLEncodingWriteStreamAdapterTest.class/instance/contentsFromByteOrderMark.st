@@ -1,0 +1,3 @@
+converting
+contentsFromByteOrderMark
+	^ self asExpectedOutput: self streamConverterClass byteOrderMarkBytes

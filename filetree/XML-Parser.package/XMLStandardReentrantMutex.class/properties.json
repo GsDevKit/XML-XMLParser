@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Utils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mutex" ],
+	"name" : "XMLStandardReentrantMutex",
+	"pools" : [
+		 ],
+	"super" : "XMLReentrantMutex",
+	"type" : "normal" }

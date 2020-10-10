@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLUTF8StreamConverter",
+	"pools" : [
+		 ],
+	"super" : "XMLUTFStreamConverter",
+	"type" : "normal" }

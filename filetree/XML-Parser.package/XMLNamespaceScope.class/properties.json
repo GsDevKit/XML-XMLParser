@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Namespaces",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"prefixMappings" ],
+	"name" : "XMLNamespaceScope",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

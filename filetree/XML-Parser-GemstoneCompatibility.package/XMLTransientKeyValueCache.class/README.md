@@ -1,0 +1,1 @@
+This class is a key-value cache implementation for Gemstone that uses a transient internal collection.

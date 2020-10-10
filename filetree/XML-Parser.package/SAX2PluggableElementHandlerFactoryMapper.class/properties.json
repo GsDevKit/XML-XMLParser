@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"elementHandlerFactoryMap",
+		"elementHandlerFactory" ],
+	"name" : "SAX2PluggableElementHandlerFactoryMapper",
+	"pools" : [
+		 ],
+	"super" : "SAX2ElementHandlerFactoryMapper",
+	"type" : "normal" }

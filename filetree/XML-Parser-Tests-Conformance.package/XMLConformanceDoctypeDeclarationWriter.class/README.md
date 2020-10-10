@@ -1,0 +1,1 @@
+A doctype writer for the XML Conformance test suite canonical XML format that is not omittable, unlike doctypes in regular canonical XML.

@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-Tests-Files",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tempFileManager",
+		"currentWorkingDirectoryFileHandle" ],
+	"name" : "XMLFileHandleTest",
+	"pools" : [
+		 ],
+	"super" : "XMLSkippableTest",
+	"type" : "normal" }

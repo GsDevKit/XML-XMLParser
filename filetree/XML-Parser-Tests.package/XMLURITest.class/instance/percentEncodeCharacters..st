@@ -1,0 +1,3 @@
+converting
+percentEncodeCharacters: aCharacterCollection
+	^ XMLStreamAdapterTest percentEncodeCharacters: aCharacterCollection

@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-GTExtensions-Highlighting-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"highlighter",
+		"encoding" ],
+	"name" : "XMLHighlightingParser",
+	"pools" : [
+		 ],
+	"super" : "SAXPositionHandler",
+	"type" : "normal" }

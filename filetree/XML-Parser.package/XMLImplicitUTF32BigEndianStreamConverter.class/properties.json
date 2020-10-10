@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLImplicitUTF32BigEndianStreamConverter",
+	"pools" : [
+		 ],
+	"super" : "XMLUTF32BigEndianStreamConverter",
+	"type" : "normal" }

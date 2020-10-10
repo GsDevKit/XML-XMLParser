@@ -1,0 +1,22 @@
+tests
+testExternalEntities
+	| resolver replacementAssociation |
+	self isTestingLimiting
+		ifTrue: [ ^ self ].
+	resolver := self newResolver.
+	self
+		assert: resolver externalEntities class == Dictionary;
+		assert: resolver externalEntities isEmpty.
+	resolver externalEntities: self entityAssociations.
+	self assert: resolver externalEntities equals: self entityDictionary.
+	replacementAssociation := 'new.ent' asXMLURI
+		-> self newEntityReplacement.
+	resolver externalEntities: (Array with: replacementAssociation).
+	self
+		assert: resolver externalEntities
+		equals: (Dictionary with: replacementAssociation).
+	resolver := self resolverClass
+		externalEntities: self entityAssociations.
+	self
+		assert: resolver class == self resolverClass;
+		assert: resolver externalEntities equals: self entityDictionary

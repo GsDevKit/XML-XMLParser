@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-DOM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ndata" ],
+	"name" : "XMLGeneralEntityDeclaration",
+	"pools" : [
+		 ],
+	"super" : "XMLEntityDeclaration",
+	"type" : "normal" }

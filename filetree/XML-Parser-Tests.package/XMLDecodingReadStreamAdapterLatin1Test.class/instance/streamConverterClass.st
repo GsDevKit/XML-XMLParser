@@ -1,0 +1,3 @@
+accessing
+streamConverterClass
+	^ XMLLatin1StreamConverter

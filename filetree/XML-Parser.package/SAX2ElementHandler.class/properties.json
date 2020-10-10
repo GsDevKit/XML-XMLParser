@@ -1,0 +1,16 @@
+{
+	"category" : "XML-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parser",
+		"parent",
+		"parentFactory" ],
+	"name" : "SAX2ElementHandler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

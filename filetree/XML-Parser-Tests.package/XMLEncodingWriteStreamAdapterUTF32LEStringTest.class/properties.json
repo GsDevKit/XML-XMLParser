@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Tests-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLEncodingWriteStreamAdapterUTF32LEStringTest",
+	"pools" : [
+		 ],
+	"super" : "XMLEncodingWriteStreamAdapterUTF32LETest",
+	"type" : "normal" }

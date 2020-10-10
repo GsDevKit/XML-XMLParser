@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser",
+	"classinstvars" : [
+		"emptyAttributeDictionary" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"attributeDictionary" ],
+	"name" : "XMLLazyAttributeDictionary",
+	"pools" : [
+		 ],
+	"super" : "Collection",
+	"type" : "normal" }

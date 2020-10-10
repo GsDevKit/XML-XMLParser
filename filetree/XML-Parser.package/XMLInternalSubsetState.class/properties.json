@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-Drivers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLInternalSubsetState",
+	"pools" : [
+		 ],
+	"super" : "XMLDoctypeDeclarationState",
+	"type" : "normal" }

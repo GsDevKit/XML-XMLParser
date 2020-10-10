@@ -1,0 +1,14 @@
+{
+	"category" : "XML-Parser-HTTP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XMLHTTPDecompressingReadStreamAdapterFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "XML-Parser-GTExtensions-Highlighting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"highlights",
+		"defaultHighlight" ],
+	"name" : "XMLHighlighter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
