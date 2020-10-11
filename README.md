@@ -1,8 +1,8 @@
 # XML-XMLParser
 
-[![Build Status](https://travis-ci.org/pharo-contributions/XML-XMLParser.svg?branch=master)](https://travis-ci.org/pharo-contributions/XML-XMLParser) [![Coverage Status](https://coveralls.io/repos/github/pharo-contributions/XML-XMLParser/badge.svg?branch=master)](https://coveralls.io/github/pharo-contributions/XML-XMLParser?branch=master)
+[![Build Status](https://travis-ci.org/GsDevKit/XML-XMLParser.svg?branch=gemstone)](https://travis-ci.org/GsDevKit/XML-XMLParser)
 
-XML Parser for [Pharo](http://www.pharo.org)
+Port of XML Parser for [Pharo](http://www.pharo.org) to [GemStone](https://gemtalksystems.com/).
 
 ## Description
 
