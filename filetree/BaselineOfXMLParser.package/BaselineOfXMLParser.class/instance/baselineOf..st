@@ -21,7 +21,7 @@ baselineOf: spec
 			"Groups"
 			spec
 				group: 'Core' with: #('XML-Parser');
-				group: 'Tools' with: #(OrderPreservingDictionary Tools 'XMLWriter Tools' 'XML-Parser-GTExtensions'); 
+				group: 'Tools' with: #('OrderPreservingDictionary Tools' 'XMLWriter Tools' 'XML-Parser-GTExtensions'); 
 				group: 'Tests' with: #('XML-Parser-Tests' 'XML-Parser-Tests-Conformance');	
 				group: 'all' with: #('Core' 'Tools' 'Tests');
 				group: 'default' with: #('all')	
