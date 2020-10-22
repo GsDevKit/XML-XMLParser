@@ -25,4 +25,10 @@ baselineOf: spec
 				group: 'Tests' with: #('XML-Parser-Tests' 'XML-Parser-Tests-Conformance');	
 				group: 'all' with: #('Core' 'Tools' 'Tests');
 				group: 'default' with: #('all')	
-	]
+	].
+  spec
+		for: #'gemstone'
+		do: [
+			spec
+				package: 'XML-Parser' with: [ spec includes: 'XML-Parser-GemstoneCompatibility' ];
+				package: 'XML-Parser-GemstoneCompatibility' with: [ spec requires: 'XML-Parser' ]
