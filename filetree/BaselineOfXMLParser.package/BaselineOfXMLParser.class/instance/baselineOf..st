@@ -33,3 +33,10 @@ baselineOf: spec
 				package: 'XML-Parser' with: [ spec includes: 'XML-Parser-GemstoneCompatibility' ];
 				package: 'XML-Parser-GemstoneCompatibility' with: [ spec requires: 'XML-Parser' ]
 	].
+	spec
+		for: #'gs3.1.x'
+		do: [ 
+			spec package: 'XML-Parser' with: [ spec includes: #('XML-Parser-GemstoneCompatibility' 'XML-Parser-GemstoneCompatibility31x')].
+			spec package: 'XML-Parser-GemstoneCompatibility' with: [ spec requires: 'XML-Parser' ].
+			spec package: 'XML-Parser-GemstoneCompatibility31x' with: [ spec requires: 'XML-Parser-GemstoneCompatibility' ].
+		].
