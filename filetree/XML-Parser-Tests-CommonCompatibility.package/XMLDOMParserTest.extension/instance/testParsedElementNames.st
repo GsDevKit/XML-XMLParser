@@ -1,4 +1,4 @@
-tests
+*XML-Parser-Tests-CommonCompatibility
 testParsedElementNames
 	| document |
 

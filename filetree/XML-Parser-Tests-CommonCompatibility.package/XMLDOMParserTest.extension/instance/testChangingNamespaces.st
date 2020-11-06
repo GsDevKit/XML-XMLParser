@@ -1,4 +1,4 @@
-tests
+*XML-Parser-Tests-CommonCompatibility
 testChangingNamespaces
 	| document people person |
 
