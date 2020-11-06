@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 xmlLastOrNil
 	"for speed to avoid at:ifAbsent: closure"
 	| lastOrNilOffset |

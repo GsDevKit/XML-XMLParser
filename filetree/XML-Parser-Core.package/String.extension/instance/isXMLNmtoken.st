@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLNmtoken
 	"optimized"
 	self size == 0

@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLNSAttributeName
 	"optimized"
 	self size >= 5

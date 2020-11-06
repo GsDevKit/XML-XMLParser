@@ -1,3 +1,3 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLConvertingStreamAdapter
 	^ false

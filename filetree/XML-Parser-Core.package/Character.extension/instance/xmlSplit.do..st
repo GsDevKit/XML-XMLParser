@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 xmlSplit: aString do: aBlock
 	"faster, portable version"
 	| start |

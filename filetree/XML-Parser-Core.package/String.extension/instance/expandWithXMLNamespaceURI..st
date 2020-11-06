@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 expandWithXMLNamespaceURI: aURI
 	"optimized"
 	aURI size == 0

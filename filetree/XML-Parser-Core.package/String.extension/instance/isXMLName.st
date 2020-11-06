@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLName
 	"optimized"
 	self size == 0

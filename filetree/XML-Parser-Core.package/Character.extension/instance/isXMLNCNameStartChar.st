@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLNCNameStartChar
 	"should be the same as isXMLNameStartChar except without a test for $:"
 

@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 qualifyWithXMLPrefix: aPrefix
 	"optimized"
 	aPrefix size == 0

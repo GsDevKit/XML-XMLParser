@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLWhitespace
 	"a temp is used because Character in newer SpurVM images
 	has no 'value' inst var"

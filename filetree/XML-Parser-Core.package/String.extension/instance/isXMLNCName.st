@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLNCName
 	"optimized"
 	self size == 0

@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLQualifiedOrLocalName: aQualifiedOrLocalName
 	"returns true if self and aQualifiedOrLocalName are the
 	same QName or if self is a QName and aQualifiedOrLocalName

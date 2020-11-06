@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 xmlSeparators
 	^ String
 		with: 32 asCharacter "space"

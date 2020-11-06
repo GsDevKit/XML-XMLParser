@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 asXMLString
 	"will be deprecated; use #asXMLStringNode instead"
 

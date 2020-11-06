@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLWhitespace
 	"optimized"
 	self size == 0

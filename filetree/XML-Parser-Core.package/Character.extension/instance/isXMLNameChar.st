@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLNameChar
 	"Range tests are faster and use less memory than a BitmapCharacterSet, and
 	a temp is used because Character in newer SpurVM images has no 'value'

@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 xmlPrefixBeforeLocalName: aLocalName
 	"optimized"
 	| prefixSize |

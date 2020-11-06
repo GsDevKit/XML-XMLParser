@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLReservedAttributeName
 	"optimized"
 	self size > 3

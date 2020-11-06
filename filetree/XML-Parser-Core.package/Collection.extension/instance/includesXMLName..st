@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 includesXMLName: aName
 	"optimized with do: instead of anySatisfy:"
 	self do: [:each |

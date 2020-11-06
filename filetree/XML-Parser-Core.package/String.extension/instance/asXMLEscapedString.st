@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 asXMLEscapedString
 	"returns a copy of self with &, <, and > escaped with &amp;, &lt;, and &gt;"
 	| stream |

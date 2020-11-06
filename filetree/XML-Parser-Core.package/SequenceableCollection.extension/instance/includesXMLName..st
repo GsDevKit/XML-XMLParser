@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 includesXMLName: aName
 	"optimized with #to:do:"
 	1 to: self size do: [:i |

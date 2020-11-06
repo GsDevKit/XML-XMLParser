@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 isXMLBinaryOrExternalStream
 	"Not every stream or stream-like object is a subclass of Stream, so this
 	must be defined here.

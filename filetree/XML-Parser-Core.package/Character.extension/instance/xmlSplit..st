@@ -1,4 +1,4 @@
-*XML-Parser
+*XML-Parser-Core
 xmlSplit: aString
 	"faster, portable version"
 	| parts |
