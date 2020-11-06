@@ -1,5 +1,5 @@
 {
-	"category" : "XML-Parser-Tests-Base",
+	"category" : "XML-Parser-Tests-Core",
 	"classinstvars" : [
 		"isSkipping" ],
 	"classvars" : [

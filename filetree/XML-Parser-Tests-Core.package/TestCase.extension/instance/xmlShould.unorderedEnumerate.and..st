@@ -1,4 +1,4 @@
-*XML-Parser-Tests
+*XML-Parser-Tests-Core
 xmlShould: aBlock unorderedEnumerate: aFirstCollection and: aSecondCollection
 	| firstEnumerated secondEnumerated |
 

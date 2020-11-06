@@ -1,4 +1,4 @@
-*XML-Parser-Tests
+*XML-Parser-Tests-Core
 fromXMLBNF: aString
 	"parses a subset of the BNF syntax used by the XML spec for character classes"
 	| set readStream |

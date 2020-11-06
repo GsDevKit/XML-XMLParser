@@ -1,4 +1,4 @@
-*XML-Parser-Tests
+*XML-Parser-Tests-Core
 nextXMLBNFCharFrom: aStream
 	(aStream peek == $"
 		or: [aStream peek == $'])
