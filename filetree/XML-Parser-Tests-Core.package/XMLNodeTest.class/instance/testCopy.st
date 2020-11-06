@@ -7,4 +7,4 @@ testCopy
 	copy := node copy.
 	self
 		deny: copy == node;
-		deny: copy hasParent. 
+		deny: copy hasParent.

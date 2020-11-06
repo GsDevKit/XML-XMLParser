@@ -1,3 +1,3 @@
 acccessing
 mapperClass
-	^ XMLElementClassMapper 
+	^ XMLElementClassMapper

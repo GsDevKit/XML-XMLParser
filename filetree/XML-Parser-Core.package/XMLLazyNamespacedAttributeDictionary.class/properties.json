@@ -11,4 +11,4 @@
 	"pools" : [
 		 ],
 	"super" : "XMLLazyAttributeDictionary",
-	"type" : "normal" }
+	"type" : "variable" }

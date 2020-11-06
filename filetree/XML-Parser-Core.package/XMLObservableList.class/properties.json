@@ -11,4 +11,4 @@
 	"pools" : [
 		 ],
 	"super" : "XMLOrderedList",
-	"type" : "normal" }
+	"type" : "variable" }

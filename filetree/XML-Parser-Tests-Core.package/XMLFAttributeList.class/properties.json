@@ -11,4 +11,4 @@
 	"pools" : [
 		 ],
 	"super" : "XMLAttributeList",
-	"type" : "normal" }
+	"type" : "variable" }
