@@ -1,4 +1,4 @@
-testing
+*XML-Parser-PharoCompatibility
 isSupportedImplementation
 	(XMLClassFinder hasClassNamed: #Mutex)
 		ifFalse: [^ false].

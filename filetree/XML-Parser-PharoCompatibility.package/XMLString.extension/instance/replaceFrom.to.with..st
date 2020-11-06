@@ -1,4 +1,4 @@
-replacing
+*XML-Parser-PharoCompatibility
 replaceFrom: aStart to: aStop with: aReplacement
 	"works like copyReplaceFrom:to:with: and
 	can be used to insert, delete, and replace"

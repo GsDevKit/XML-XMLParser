@@ -57,4 +57,13 @@ baselineOf: spec
 				with: [ spec includes: #('XML-Parser-Tests-GemstoneCompatibility31x') ].
 			spec
 				package: 'XML-Parser-Tests-GemstoneCompatibility31x'
-				with: [ spec requires: #('XML-Parser-Tests-Core') ] ]
+				with: [ spec requires: #('XML-Parser-Tests-Core') ] ].
+	spec
+		for: #'pharo'
+		do: [ 
+			spec
+				package: 'XML-Parser-Core'
+					with: [ spec includes: 'XML-Parser-PharoCompatibility' ];
+				package: 'XML-Parser-PharoCompatibility'
+					with: [ spec requires: 'XML-Parser-Core' ] ].
+
