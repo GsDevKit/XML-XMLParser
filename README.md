@@ -20,12 +20,19 @@ http://www.w3.org/TR/xmlbase/
 
 ## Installation
 
+### Metacello
 ```Smalltalk
 Metacello new
 	baseline: 'XMLParser';
-	repository: 'github://pharo-contributions/XML-XMLParser/src';
+	repository: 'github://GsDevKit/XML-XMLParser:gemstone/filetree';
 	load.
 ```	
+
+### tODE command line
+```
+project install --url=http://gsdevkit.github.io/GsDevKit_home/XMLParser.ston
+project load XMLParser
+```
 
 ## How to use
 
