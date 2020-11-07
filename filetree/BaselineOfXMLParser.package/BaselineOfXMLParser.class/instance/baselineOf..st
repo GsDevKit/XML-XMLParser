@@ -43,6 +43,15 @@ baselineOf: spec
 	spec
 		for: #( #pharo #'gs3.2.x' #'gs3.3.x' #'gs3.4.x' #'gs3.5.x' #'gs3.6.x' )
 		do: [
+			spec
+				package: 'XML-Parser-Core'
+				with: [ 
+					spec
+						includes:
+							#('XML-Parser-CommonCompatibility') ].
+			spec
+				package: 'XML-Parser-CommonCompatibility'
+				with: [ spec requires: 'XML-Parser-Core' ].
       spec
 				package: 'XML-Parser-Tests-Core'
 				with: [ spec includes: #('XML-Parser-Tests-CommonCompatibility') ].
