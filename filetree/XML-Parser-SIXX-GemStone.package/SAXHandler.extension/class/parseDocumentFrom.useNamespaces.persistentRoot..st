@@ -8,7 +8,6 @@ parseDocumentFrom: aStream useNamespaces: aBoolean persistentRoot: persistentArr
 	persistentArrayOrNil ~~ nil
 		ifTrue: [ persistentArrayOrNil add: parser ].
 	parser usesNamespaces: aBoolean.
-	parser startDocument.
 	parser parseDocument.
 	persistentArrayOrNil ~~ nil
 		ifTrue: [ persistentArrayOrNil size: 0 ].
