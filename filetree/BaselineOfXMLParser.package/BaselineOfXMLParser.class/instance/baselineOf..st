@@ -21,13 +21,16 @@ baselineOf: spec
 			spec
 				group: 'Core' with: #('XML-Parser-Core');
 				group: 'Tools' with: #();
-				group: 'Tests' with: #('XML-Parser-Tests-Core' 'XML-Parser-Tests-Conformance');
+				group: 'Tests'
+					with: #('XML-Parser-Tests-Core' 'XML-Parser-Tests-Conformance');
 				group: 'all' with: #('Core' 'Tools' 'Tests');
 				group: 'default' with: #('all') ].
 	spec
 		for: #'gt'
 		do: [ 
-			spec package: 'XML-Parser-GTExtensions' with: [ spec requires: #('XML-Parser-Core') ].
+			spec
+				package: 'XML-Parser-GTExtensions'
+				with: [ spec requires: #('XML-Parser-Core') ].
 			spec
 				group: 'Tools'
 				with:
@@ -39,20 +42,18 @@ baselineOf: spec
 				package: 'XML-Parser-Core'
 					with: [ spec includes: 'XML-Parser-GemstoneCompatibility' ];
 				package: 'XML-Parser-GemstoneCompatibility'
-					with: [ spec requires: 'XML-Parser-Core' ] ].
+					with: [ spec requires: 'XML-Parser-Core' ];
+				package: 'XML-Parser-SIXX-GemStone' with: [  ] ].
 	spec
-		for: #( #pharo #'gs3.2.x' #'gs3.3.x' #'gs3.4.x' #'gs3.5.x' #'gs3.6.x' )
-		do: [
+		for: #(#'pharo' #'gs3.2.x' #'gs3.3.x' #'gs3.4.x' #'gs3.5.x' #'gs3.6.x')
+		do: [ 
 			spec
 				package: 'XML-Parser-Core'
-				with: [ 
-					spec
-						includes:
-							#('XML-Parser-CommonCompatibility') ].
+				with: [ spec includes: #('XML-Parser-CommonCompatibility') ].
 			spec
 				package: 'XML-Parser-CommonCompatibility'
 				with: [ spec requires: 'XML-Parser-Core' ].
-      spec
+			spec
 				package: 'XML-Parser-Tests-Core'
 				with: [ spec includes: #('XML-Parser-Tests-CommonCompatibility') ].
 			spec
@@ -63,10 +64,7 @@ baselineOf: spec
 		do: [ 
 			spec
 				package: 'XML-Parser-Core'
-				with: [ 
-					spec
-						includes:
-							#('XML-Parser-GemstoneCompatibility31x') ].
+				with: [ spec includes: #('XML-Parser-GemstoneCompatibility31x') ].
 			spec
 				package: 'XML-Parser-GemstoneCompatibility31x'
 				with: [ spec requires: 'XML-Parser-GemstoneCompatibility' ].
@@ -83,5 +81,4 @@ baselineOf: spec
 				package: 'XML-Parser-Core'
 					with: [ spec includes: 'XML-Parser-PharoCompatibility' ];
 				package: 'XML-Parser-PharoCompatibility'
-					with: [ spec requires: 'XML-Parser-Core' ] ].
-
+					with: [ spec requires: 'XML-Parser-Core' ] ]
