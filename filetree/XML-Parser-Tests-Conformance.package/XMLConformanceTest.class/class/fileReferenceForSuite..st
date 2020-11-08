@@ -1,3 +1,4 @@
 accessing
 fileReferenceForSuite: aSuite
-	^ FileSystem workingDirectory / self baseDirectory / aSuite
+	^ (XMLClassFinder classNamed: #'FileSystem') workingDirectory
+		/ self baseDirectory / aSuite
