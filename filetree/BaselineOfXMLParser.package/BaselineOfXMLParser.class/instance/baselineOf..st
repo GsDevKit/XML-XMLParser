@@ -40,7 +40,7 @@ baselineOf: spec
     do: [ 
       spec
         package: 'XML-Parser-Core'
-          with: [ spec includes: 'XML-Parser-GemstoneCompatibility' ];
+          with: [ spec includes: #('XML-Parser-GemstoneCompatibility' 'XML-Parser-SIXX-GemStone') ];
         package: 'XML-Parser-GemstoneCompatibility'
           with: [ spec requires: 'XML-Parser-Core' ];
         package: 'XML-Parser-SIXX-GemStone'
