@@ -42,7 +42,8 @@ baselineOf: spec
 				package: 'XML-Parser-Core'
 					with: [ spec includes: 'XML-Parser-GemstoneCompatibility' ];
 				package: 'XML-Parser-GemstoneCompatibility'
-					with: [ spec requires: 'XML-Parser-Core' ] ].
+					with: [ spec requires: 'XML-Parser-Core' ];
+				package: 'XML-Parser-SIXX-GemStone' with: [  ] ].
 	spec
 		for: #(#'pharo' #'gs3.2.x' #'gs3.3.x' #'gs3.4.x' #'gs3.5.x' #'gs3.6.x')
 		do: [ 
